@@ -1,0 +1,3 @@
+./salestax.py input1.txt
+./salestax.py input2.txt
+./salestax.py input3.txt
